@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background rectangle -->
+  <rect 
+    width="100" 
+    height="100" 
+    rx="12" 
+    fill="black" 
+  />
+  
+  <!-- B letter -->
+  <text 
+    x="38" 
+    y="75" 
+    font-family="'Instrument Sans', sans-serif" 
+    font-weight="700" 
+    font-size="60" 
+    fill="white" 
+    text-anchor="middle"
+  >
+    B
+  </text>
+
+  <!-- i letter -->
+  <text 
+    x="62" 
+    y="75" 
+    font-family="'Instrument Sans', sans-serif" 
+    font-weight="700" 
+    font-size="60" 
+    fill="#D1FF4C" 
+    text-anchor="middle"
+  >
+    i
+  </text>
+</svg>
